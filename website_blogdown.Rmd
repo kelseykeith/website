@@ -1,8 +1,0 @@
-
-```{r setup, include=FALSE}
-library(tidyverse)
-library(blogdown)
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
